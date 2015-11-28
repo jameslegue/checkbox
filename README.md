@@ -1,5 +1,4 @@
 
-
 # Checkbox, a dropbox.js Sample Application
 
 This application demonstrates the use of the JavaScript client library for the
